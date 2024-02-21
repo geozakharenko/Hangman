@@ -1,2 +1,2 @@
 # Hangman
-A procedural-style hangman
+A procedural-style hangman.
